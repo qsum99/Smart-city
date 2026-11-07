@@ -1,0 +1,9 @@
+.venv/
+__pycache__/
+*.pyc
+data/cityos.db
+data/*.jsonl
+logs/
+.ruff_cache/
+.pytest_cache/
+mlruns/
